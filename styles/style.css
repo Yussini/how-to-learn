@@ -105,7 +105,7 @@
   font-weight: normal;
   margin: 0;
 }
-.two-coumns__main-text {
+.two-columns__main-text {
   display: flex;
   flex-direction: column;
   width: 80%;
@@ -251,6 +251,8 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
 }
 
 .kaufman {
@@ -260,7 +262,7 @@
   overflow: hidden;
 }
 
-.kauman__triangle {
+.kaufman__triangle {
   height: 877px;
   width: 877px;
   margin: 0;
