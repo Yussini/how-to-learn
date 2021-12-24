@@ -259,6 +259,8 @@
 }
 
 .kauman__triangle {
+  height: 877px;
+  width: 877px;
   margin: 0;
   position: absolute;
   top: 0px;
@@ -336,5 +338,7 @@
   color: white;
 }
 .social-icon {
+  width: 16px;
+  height: 16px;
   margin-right: 10px;
 }
