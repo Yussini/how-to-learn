@@ -293,6 +293,7 @@
 }
 
 .footer__column_content_copyright {
+  align-items: flex-start;
   justify-content: space-between;
   flex-basis: 711px;
   margin: 0;
