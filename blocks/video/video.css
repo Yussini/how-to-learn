@@ -3,13 +3,3 @@
   position: relative;
   z-index: 5;
 }
-
-.video__iframes {
-  display: flex;
-  flex-wrap: wrap;
-  width: 1050px;
-  margin: 0 auto;
-}
-.video__iframe:first-child {
-  margin-right: 20px;
-}
