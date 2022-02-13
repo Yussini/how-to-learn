@@ -5,3 +5,8 @@
   font-size: 30px;
   font-weight: normal;
 }
+
+.khan__buy-link:hover{
+  opacity: 0.70;
+  transition: opacity 0.3s ease 0.1s;
+}
